@@ -10,3 +10,27 @@ td,
 th {
   border: 1px solid #ccc;
 }
+
+.grey {
+  border-color: #666;
+  color:#333;
+  background-color:#f2f2f2;
+}
+
+.red {
+  border-color: #b92828;
+  color: #51603f;
+  background-color: #f2bcbc;
+}
+
+.green {
+  background-color: #d1e0bf;
+  color: #51603f;
+  border-color: #6b7e54
+}
+
+.blue {
+  background-color: #d2d6f0;
+ color: #38448e;
+ border-color: #1d38da;
+}
