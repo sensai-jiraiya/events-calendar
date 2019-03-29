@@ -34,3 +34,8 @@ th {
  color: #38448e;
  border-color: #1d38da;
 }
+
+li {
+  border-radius: 8px;
+  border: 1px solid;
+}
